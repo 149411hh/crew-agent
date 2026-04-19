@@ -1,0 +1,12 @@
+crewai[tools]>=0.100.0
+crewai-tools>=0.100.0
+langchain-openai
+langchain-community
+pandas
+openpyxl
+rich
+python-dotenv
+streamlit
+pypdf2
+markdown
+weasyprint
